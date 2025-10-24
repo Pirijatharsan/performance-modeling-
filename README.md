@@ -110,5 +110,5 @@ Sample output figures:
 
 ## 👨‍💻 Author
 **Your Name**  
-*Institution / Course Name*  
-*Date: October 2025*  
+R.pirijatharsan 
+
